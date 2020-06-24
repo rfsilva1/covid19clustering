@@ -1,6 +1,6 @@
 # Unsupervised Machine Learning Techniques and Pandemics Spread: The Case of COVID-19 - Code and datasets
 ## Description
-This repository contains the code and datasets for the paper Unsupervised Machine Learning Techniques and Pandemics Spread: The Case of COVID-19, accepted at the SBCAS 2020 (20º Simpósio Brasileiro de Computação Aplicada à Saúde) scientific event. Descriptions of the implementation and the dataset are contained in the paper (link: XXX, the link will be inserted once it is available). Currently, there is one Colab code per month (January, February, and March).
+This repository contains the code and datasets for the paper Unsupervised Machine Learning Techniques and Pandemics Spread: The Case of COVID-19, by Roberto F. Silva, Fernando Xavier, Antônio M. Saraiva, and Carlos E. Cugnasca. This paper was accepted at the SBCAS 2020 (20º Simpósio Brasileiro de Computação Aplicada à Saúde) scientific event. Descriptions of the implementation and the dataset are contained in the paper (link: XXX, the link will be inserted once it is available). Currently, there is one Colab code per month (January, February, and March).
 
 The code was developed by Roberto Fray da Silva.
 
