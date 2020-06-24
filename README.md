@@ -15,6 +15,8 @@ This repository contains the code and datasets for the paper Unsupervised Machin
 The code was implemented using Google Colab to improve replicability (https://colab.research.google.com/) and was based on the following:
 - A demo of K-Means clustering on the handwritten digits data from the scikit-learn tutorial: http://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_digits.html
 - K-means Clustering Python Example by Cory Maklin on Medium (2018): https://towardsdatascience.com/machine-learning-algorithms-part-9-k-means-example-in-python-f2ad05ed5203
+- SILVA, R.F.; MOSTAÇO, G.M.; XAVIER, F.; SARAIVA, A.M.; CUGNASCA, C.E. Comparison of the k-means and self-organizing maps techniques to label agricultural supply chain data. In: Conference of the European Federation for Information Technology in Agriculture, Food and the Environment (EFITA), 2019, Rhodes, Greece.
+
 The authors would like to thank the authors of the codes for providing them as examples for the use of the libraries and model implementation. 
 
 The authors would also like to thank all the developers that were and are involved on the development of the following Python libraries: 
@@ -31,7 +33,7 @@ The authors would like to thank the following institutions/researchers for provi
 - World Bank: total population, population density and age structure: http://wdi.worldbank.org/table/2.1#
 - United Nations Development Programme: HDI: http://hdr.undp.org/en/data#
 - World Health Organization COVID-19 Situation Reports, collected from Our World in Data: total number of cases, the total number of deaths, new cases and new deaths: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports  and  https://ourworldindata.org/coronavirus-source-data
-Johns Hopkins University CSSE [Dong, Du, Gardner, 2019]: number of recovered patients: https://github.com/CSSEGISandData/COVID-19  and  Dong, E., Du, H., Gardner, L. (2020) "An interactive web-based dashboard to track COVID-19 in real time". The Lancet Infectious Diseases, Correspondence, p.1-2.
+- Johns Hopkins University CSSE [Dong, Du, Gardner, 2019]: number of recovered patients: https://github.com/CSSEGISandData/COVID-19  and  Dong, E., Du, H., Gardner, L. (2020) "An interactive web-based dashboard to track COVID-19 in real time". The Lancet Infectious Diseases, Correspondence, p.1-2.
 
 ## Acknowledgements:
 This work was supported by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brazil (CAPES) - Finance Code 001, Itaú Unibanco S.A. through the Itaú Scholarship Program, at the Centro de Ciência de Dados (C2D), Universidade de São Paulo, Brazil, and also by the National Council for Scientific and Technological Development (CNPq).
