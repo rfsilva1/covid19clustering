@@ -4,6 +4,9 @@ This repository contains the code and datasets for the paper Unsupervised Machin
 
 The code was developed by Roberto Fray da Silva and Fernando Xavier
 
+Reference of the paper: XXX (reference of the paper)
+To cite this repository: XXX (reference of the paper)
+
 ## To Do (further research, out of the scope of this paper):
 - optimize code for deployment in production (there are several parts of the code that can be improved)
 - deploy code for daily clustering
