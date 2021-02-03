@@ -5,7 +5,7 @@ This repository contains the code and datasets for the paper Unsupervised Machin
 The code was developed by Roberto Fray da Silva.
 
 Reference of the paper and to cite this repository: 
-Silva, R. F.; XAVIER, F. ; SARAIVA, A. M. ; CUGNASCA, C.E. . Unsupervised machine learning and pandemics spread: the case of COVID-19. In: 20 Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS), 2020, Salvador. Anais do 20 Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS), 2020. v. 1.
+SILVA, R. F.; XAVIER, F. ; SARAIVA, A. M. ; CUGNASCA, C.E. . Unsupervised machine learning and pandemics spread: the case of COVID-19. In: 20 Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS), 2020, Salvador. Anais do 20 Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS), 2020. v. 1.
 
 ## To Do (further research, out of the scope of this paper):
 - optimize code for deployment in production (there are several parts of the code that can be improved)
